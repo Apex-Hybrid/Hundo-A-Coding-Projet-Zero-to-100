@@ -26,6 +26,14 @@ h6 {
     color: var(--primary-color);
 }
 
+.odd {
+    font-weight: 100;
+}
+
+.even {
+    font-weight: bold;
+}
+
 footer {
     padding-right: 1rem;
     padding-left: 1rem;
